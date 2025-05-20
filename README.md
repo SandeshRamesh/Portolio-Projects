@@ -8,7 +8,7 @@ All of them work. And none were built with ChatGPT and hope alone.
 
 ## 🔹 Featured Projects
 
-### 🧠 [Sales AI Assistant](./sales-ai-assistant)
+### 🧠 [Sales AI Assistant](https://github.com/SandeshRamesh/CallScriptor.git)
 
 > **Real-time objection detection + script syncing for Zoom reps**
 
@@ -16,7 +16,7 @@ All of them work. And none were built with ChatGPT and hope alone.
 - Parses uploaded sales scripts and listens to both sides of the call
 - Matches objections semantically and surfaces the perfect response—on the fly
 - [Demo Loom](https://your-loom-link)  
-- [Full README →](./sales-ai-assistant)
+- [Full README →](https://github.com/SandeshRamesh/CallScriptor.git)
 
 ---
 

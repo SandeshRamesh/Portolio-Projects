@@ -15,7 +15,6 @@ All of them work. And none were built with ChatGPT and hope alone.
 - Electron + TypeScript + Python app (runs locally)
 - Parses uploaded sales scripts and listens to both sides of the call
 - Matches objections semantically and surfaces the perfect response—on the fly
-- Built in 19 hours across 4 days, because I have issues
 - [Demo Loom](https://your-loom-link)  
 - [Full README →](./sales-ai-assistant)
 

@@ -32,7 +32,7 @@ All of them work. And none were built with ChatGPT and hope alone.
 
 ---
 
-### 🎯 [Dance Studio Inventory System](./dance-studio-inventory)
+### 🎯 [Dance Studio Inventory System](https://github.com/SandeshRamesh/Student-Inventory-Scrapper.git)
 
 > **Operational tracker for lesson attendance + engagement drop-off**
 

@@ -26,7 +26,7 @@ All of them work. And none were built with ChatGPT and wishful thinking alone.
 
 > **Auto-personalized solar outreach using public data + Google Solar API**
 
-- Scrapes lead emails amd checks rooftop solar exposure to be used in outreach
+- Scrapes lead emails and checks rooftop solar exposure to be used in outreach
 - No shady scraping—just ethical, mildly obsessive targeting
 - Built for outbound teams who want to sell sun power like it’s going out of style
 - [True People Scraper](https://github.com/SandeshRamesh/truePeopleScrapper.git)

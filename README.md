@@ -1,8 +1,8 @@
 # Sandesh Ramesh – Project Portfolio
 
-Welcome. I build tools that solve real problems under real pressure.  
-Most of these were built fast, with minimal sleep, and dangerously high caffeine levels.  
-All of them work. And none were built with ChatGPT and hope alone.
+Welcome. I build tools that solve real problems with real stakes.
+Most of these weren’t weekend hacks—they were shaped over weeks of consistent iteration, feedback, and obsession.
+All of them work. And none were built with ChatGPT and wishful thinking alone.
 
 ---
 

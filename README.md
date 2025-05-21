@@ -41,6 +41,7 @@ All of them work. And none were built with ChatGPT and wishful thinking alone.
 - Scrapes existing calendar software via cloud endpoint and serves it to a google sheet
 - Tracks students attendance, miscelanneous activity, and predicts future behavior
 - Yes, this is the one time Google Apps Script actually changed a business
+- [Student Inventory Scrapper](https://github.com/SandeshRamesh/Student-Inventory-Scrapper.git)
 
 ---
 

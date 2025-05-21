@@ -17,7 +17,7 @@ All of them work. And none were built with ChatGPT and wishful thinking alone.
 - Electron + TypeScript + Python app (runs locally)
 - Parses uploaded sales scripts and listens to both sides of the call
 - Matches objections semantically and surfaces the perfect response—on the fly
-- [Demo Loom](https://your-loom-link)  
+- [Demo Video](https://drive.google.com/file/d/1ghz9P4h5GGxFhDxk2-IqVY4Mu5sBn3uQ/view?usp=drive_link)  
 - [Full README →](https://github.com/SandeshRamesh/CallScriptor.git)
 
 ---
